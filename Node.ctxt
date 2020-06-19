@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\n\ \n
+comment1.params=
+comment1.target=Node()
+comment1.text=\n\ Node\ default\ constructor\ sets\ next\ to\ null\n\ and\ sets\ a\ to\ null\ as\ well\n
+comment2.params=a
+comment2.target=Node(java.lang.Object)
+comment2.text=\n\ Node\ constructor\ creates\ sets\ next\ to\ null\n\ and\ sets\ this.a\ to\ the\ a\ in\ the\ param\n\ \n\ @param\ \ \ a\ variable\ 'a'\ is\ a\ object\ of\ a\ generic\ class\n
+comment3.params=
+comment3.target=java.lang.Object\ getCurrentValue()
+comment3.text=\n\ getCurrentValue\ function\ gets\ the\ value\ of\ the\ current\ node\n\ \n\ @return\ an\ object\ of\ the\ a\ generic\ class\ which\ is\ stored\ in\ the\ node\n\ @param\ is\ nothing\n
+comment4.params=
+comment4.target=Node\ getNext()
+comment4.text=\n\ getNext\ function\ gets\ the\ next\ node\ in\ the\ linked\ list\n\ \n\ @return\ a\ node\ which\ is\ the\ next\ node\n\ @param\ is\ nothing\n
+comment5.params=a
+comment5.target=void\ setValue(java.lang.Object)
+comment5.text=\n\ setValue\ function\ sets\ the\ value\ of\ a\ node\ to\ variable\ 'a'\n\ which\ is\ an\ object\ of\ a\ generic\ class\ called\ A\n\ \n\ @return\ \ void\n\ @param\ \ \ a\ \ \ variable\ 'a'\ is\ an\ object\ of\ a\ generic\ class\n
+comment6.params=n
+comment6.target=void\ setNext(Node)
+comment6.text=\n\ setNext\ function\ sets\ a\ new\ node\ as\ the\ next\ node\ \n\ that\ a\ previous\ node\ will\ point\ to\ \n\ \n\ @return\ \ void\n\ @param\ \ \ Node\ n\ \ n\ is\ a\ Node\ which\ the\ previous\ node\ will\ point\ to\ when\ n\ is\ set\ as\ next\n
+numComments=7

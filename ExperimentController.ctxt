@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\n\ This\ class\ will\ be\ measuring\ how\ long\ it\ takes\ each\ search\ method\ to\ look\ for\ an\ element\n\n\ @author\ Abiola\ Gabriel\ Olofin\n
+comment1.params=x
+comment1.target=ExperimentController(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=x
+comment3.target=long\ timeSearchIte(int)
+comment3.text=\n\ This\ method\ uses\ the\ searchIte(int\ x)\ method\ to\ search\ for\ a\ value\ and\ measures\ how\ long\ it\ takes\ to\ search\ for\ the\ element\n\ It\ returns\ the\ amount\ of\ milliseconds\ it\ takes\ to\ search\ for\ the\ value\n\ \n\ @param\ -\ int\ x\ which\ is\ the\ value\ the\ searchIte\ method\ will\ be\ looking\ for\n
+comment4.params=x
+comment4.target=long\ timeSearch(int)
+comment4.text=\n\ This\ method\ uses\ the\ search(int\ x)\ method\ to\ search\ for\ a\ value\ and\ measures\ how\ long\ it\ takes\ to\ search\ for\ the\ element\n\ It\ returns\ the\ amount\ of\ milliseconds\ it\ takes\ to\ search\ for\ the\ value\n\ \n\ @param\ -\ int\ x\ which\ is\ the\ value\ the\ search\ method\ will\ be\ looking\ for\n
+numComments=5

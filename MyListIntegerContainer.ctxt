@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=MyListIntegerContainer
+comment0.text=\n\ In\ this\ class,\ I\ am\ creating\ a\ \n\n\ @Abiola\ Gabriel\ Olofin\n\ \n
+comment1.params=
+comment1.target=MyListIntegerContainer()
+comment2.params=x
+comment2.target=MyListIntegerContainer(java.lang.Integer)
+comment3.params=x
+comment3.target=void\ addToBack(java.lang.Integer)
+comment3.text=\n\ This\ method\ adds\ an\ integer\ to\ the\ end\ of\ the\ list\n\ \n\ @param\ -\ Integer\ x\ which\ will\ be\ added\ to\ the\ end\ of\ the\ list\ as\ a\ node\n
+comment4.params=x
+comment4.target=void\ addToFront(java.lang.Integer)
+comment4.text=\n\ This\ methods\ adds\ an\ integer\ to\ the\ beginning\ of\ the\ list\ and\ makes\ it\ the\ head\n\ \n\ @param\ -\ Integer\ x\ which\ will\ be\ added\ to\ the\ beginning\ of\ the\ list\ as\ a\ node\n
+comment5.params=x
+comment5.target=int\ searchIte(java.lang.Integer)
+comment5.text=\n\ This\ method\ searches\ through\ the\ list\ for\ a\ the\ first\ occurence\ of\ the\ integer\ x\ and\ returns\ the\ index\ of\ the\ first\ occurence\n\ This\ method\ also\ uses\ the\ iterator\ to\ search\ through\ the\ list\n\ \n\ @param\ -\ Integer\ x\ which\ is\ the\ value\ you\ are\ looking\ for\ in\ the\ list\ \n
+comment6.params=x
+comment6.target=int\ search(java.lang.Integer)
+comment6.text=\n\ This\ method\ searches\ through\ the\ list\ for\ a\ the\ first\ occurence\ of\ the\ integer\ x\ and\ returns\ the\ index\ of\ the\ first\ occurence\n\ This\ method\ does\ not\ use\ an\ iterator\ to\ search\n\ \n\ @param\ -\ Integer\ x\ which\ is\ the\ value\ you\ are\ looking\ for\ in\ the\ list\n
+numComments=7
